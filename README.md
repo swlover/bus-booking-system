@@ -1,20 +1,21 @@
 # Bus Booking System
-=============
+======================
  
- OverView
+OverView
 ===========
 This project is basically for Ticket booking system.
+User can enter name and number of seats which needs to be book
 
 
-Out put
-=============
-
+Initial requirement
+======================
 
 1. before you start make sure you have installed nodejs.
 
 2. go to command promt and navigate to the folder where project package.json is available. 
 
 3. Run 'npm install' to get all dependencies
+
 
 To run program
 ========================
